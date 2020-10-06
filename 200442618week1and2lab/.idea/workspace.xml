@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f725d99b-d660-48f7-9951-691eb31f09fb" name="Default Changelist" comment="Student id-200442618 Lab1 and Lab2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/carView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/carView.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iScSwGifl9rd0YhkA68CuSY8CL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="200442618week1and2lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f725d99b-d660-48f7-9951-691eb31f09fb" name="Default Changelist" comment="" />
+      <created>1601904447250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601904447250</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Student id-200442618 Lab1 and Lab2">
+      <created>1601930648893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601930648893</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Studentid-200442618 Lab1 and Lab2" />
+    <MESSAGE value="Student ID-200442618 Lab-1 and Lab-2" />
+    <MESSAGE value="Student id-200442618 Lab1 and Lab2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student id-200442618 Lab1 and Lab2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="115" key="#Inspections" timestamp="1601929217481">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="311" y="115" key="#Inspections/0.0.1368.872@0.0.1368.872" timestamp="1601929217481" />
+    <state x="490" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1601922833513">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="490" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1601922833513" />
+    <state x="307" y="23" key="CommitChangelistDialog2" timestamp="1601929407687">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="307" y="23" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1601929407687" />
+    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1601932691538">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1601932691538" />
+    <state x="523" y="334" key="Github.ShareDialog" timestamp="1601930878653">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="523" y="334" key="Github.ShareDialog/0.0.1368.872@0.0.1368.872" timestamp="1601930878653" />
+    <state x="425" y="134" key="Github.UntrackedFilesDialog" timestamp="1601929881371">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="425" y="134" key="Github.UntrackedFilesDialog/0.0.1368.872@0.0.1368.872" timestamp="1601929881371" />
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom" timestamp="1601930270477">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1601930270477" />
+    <state width="1326" height="227" key="GridCell.Tab.0.center" timestamp="1601930270477">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1601930270477" />
+    <state width="1326" height="227" key="GridCell.Tab.0.left" timestamp="1601930270477">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1601930270477" />
+    <state width="1326" height="227" key="GridCell.Tab.0.right" timestamp="1601930270477">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1601930270477" />
+    <state x="186" y="81" key="SettingsEditor" timestamp="1601928227268">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="186" y="81" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1601928227268" />
+    <state x="277" y="169" key="Vcs.Push.Dialog.v2" timestamp="1601930748396">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="169" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1601930748396" />
+    <state x="502" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601929335853">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="502" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1601929335853" />
+  </component>
+</project>
